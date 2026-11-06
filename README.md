@@ -90,7 +90,7 @@ The code and dataset are shared to support transparency and reproducibility in m
 
 ## Citation
 
-If you use this repository in your research, please cite the associated research article when it becomes available.
+The dataset used in this study was collected from the published literature. The original source of the data is acknowledged through the following reference : A. Detor, S. Oppenheimer, R. Casey, and C. Crawford, “Refractory high entropy alloy dataset with room temperature ductility screening,” Data Brief, vol. 45, p. 108582, Dec. 2022, doi: 10.1016/j.dib.2022.108582.
 
 ## Contact
 
